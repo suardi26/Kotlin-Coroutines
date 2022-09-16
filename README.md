@@ -3,10 +3,9 @@
 ### Software :
 
  - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/material/144/000000/intellij-idea.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;IntelliJ IDEA Community Edition 2021.2.3.</a>
- - Java Version 1.8 (Java 8)
- - Gradle Version 7.3.3
- - minSdk 29
- - targetSdk 32
+ - Java Version 15.0.1 (Java 15)
+ - Kotlin Version 1.7.10
+ - Gradle Version 7.5
 
 ### Social Media :
 <p align="left">
